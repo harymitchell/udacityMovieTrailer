@@ -1,3 +1,6 @@
+''' Fresh_tomatoes builds HTML with selected information of a list of Movies,
+  and opens the HTML in a browser for viewing. '''
+
 import webbrowser
 import os
 import re
